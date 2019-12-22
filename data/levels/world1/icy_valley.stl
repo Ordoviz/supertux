@@ -709,6 +709,7 @@
       (y 0)
     )
     (sequencetrigger
+      (fade_tilemap "secret_path")
       (sequence "endsequence")
       (width 32)
       (height 512)
